@@ -45,7 +45,7 @@ Python 3.x
 NumPy
 Matplotlib (for visualization)
 
-### Acknowledgements
+### Acknowledgements 
 
 This implementation is inspired by the original paper: "A Combined Corner and Edge Detector" by Chris Harris and Mike Stephens.
 License
