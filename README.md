@@ -3,11 +3,17 @@
 This repository includes the Naive, and various Fast versions of harris corner detector implemented from scratch. Step by step implementation steps:
 
 1- Naive Formula
+
 2- Naive Formula + NMS
+
 3- Taylor Series Formula + NMS
+
 4- Fast Implementation + NMS - Uniform Weighting
+
 5- Fast Implementation + NMS - Circular Weighting
+
 6- Fast Implementation + NMS - Gaussian Weighting
+
 
 ## Example Results
 
@@ -25,7 +31,7 @@ Here are some example results obtained using the Harris Corner Detector on diffe
 ### Result 2
 ![Result 2](examples/result2.jpg)
 
-## Overview
+## Overview
 
 This repository contains a Python implementation of the Harris Corner Detector, a widely used algorithm in computer vision for corner detection. The Harris Corner Detector is particularly useful in image processing and computer vision tasks, where identifying key features, such as corners, is essential.
 Harris Corner Detector
