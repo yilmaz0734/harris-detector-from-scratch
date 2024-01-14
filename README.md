@@ -15,13 +15,6 @@ This repository includes the Naive, and various Fast versions of harris corner d
 6- Fast Implementation + NMS - Gaussian Weighting
 
 
-## Example Results
-
-Here are some example results obtained using the Harris Corner Detector on different images:
-
-### Outputs
-![Original Image 1](output.png)
-
 ## Overview
 
 This repository contains a Python implementation of the Harris Corner Detector, a widely used algorithm in computer vision for corner detection. The Harris Corner Detector is particularly useful in image processing and computer vision tasks, where identifying key features, such as corners, is essential.
@@ -38,13 +31,21 @@ Harris Corner Response Function: Calculate the Harris corner response function f
 Non-maximum Suppression: Suppress non-maximum values to obtain corner points.
 Thresholding and Corner Selection: Apply a threshold to select the final corner points.
 
-Dependencies
+
+## Example Results
+
+Here are some example results obtained using the Harris Corner Detector on different images:
+
+### Outputs
+![Original Image 1](output.png)
+
+### Dependencies
 
 Python 3.x
 NumPy
 Matplotlib (for visualization)
 
-Acknowledgments
+### Acknowledgements
 
 This implementation is inspired by the original paper: "A Combined Corner and Edge Detector" by Chris Harris and Mike Stephens.
 License
