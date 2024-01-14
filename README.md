@@ -1,18 +1,18 @@
 # Harris Corner Detector From Scratch
 
 This repository includes the Naive, and various Fast versions of harris corner detector implemented from scratch. Step by step implementation steps:
-
-1- Naive Formula
-
-2- Naive Formula + NMS
-
-3- Taylor Series Formula + NMS
-
-4- Fast Implementation + NMS - Uniform Weighting
-
-5- Fast Implementation + NMS - Circular Weighting
-
-6- Fast Implementation + NMS - Gaussian Weighting
+        
+        1- Naive Formula
+        
+        2- Naive Formula + NMS
+        
+        3- Taylor Series Formula + NMS
+        
+        4- Fast Implementation + NMS - Uniform Weighting
+        
+        5- Fast Implementation + NMS - Circular Weighting
+        
+        6- Fast Implementation + NMS - Gaussian Weighting
 
 
 ## Overview
