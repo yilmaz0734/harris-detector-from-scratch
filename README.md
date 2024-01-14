@@ -24,12 +24,12 @@ The Harris Corner Detector is an edge and corner detection algorithm that was in
 Implementation
 
 The implementation in this repository is done from scratch in Python, using common libraries such as NumPy for numerical operations. The main steps of the Harris Corner Detector algorithm are implemented, including:
-
-Gradient Calculation: Compute the image gradients using Sobel operators.
-Structure Tensor: Construct the structure tensor based on the gradients.
-Harris Corner Response Function: Calculate the Harris corner response function for each pixel.
-Non-maximum Suppression: Suppress non-maximum values to obtain corner points.
-Thresholding and Corner Selection: Apply a threshold to select the final corner points.
+    
+    Gradient Calculation: Compute the image gradients using Sobel operators.
+    Structure Tensor: Construct the structure tensor based on the gradients.
+    Harris Corner Response Function: Calculate the Harris corner response function for each pixel.
+    Non-maximum Suppression: Suppress non-maximum values to obtain corner points.
+    Thresholding and Corner Selection: Apply a threshold to select the final corner points.
 
 
 ## Example Results
@@ -41,9 +41,9 @@ Here are some example results obtained using the Harris Corner Detector on diffe
 
 ### Dependencies
 
-Python 3.x
-NumPy
-Matplotlib (for visualization)
+    Python 3.x
+    NumPy
+    Matplotlib (for visualization)
 
 ### Acknowledgements 
 
