@@ -19,17 +19,8 @@ This repository includes the Naive, and various Fast versions of harris corner d
 
 Here are some example results obtained using the Harris Corner Detector on different images:
 
-### Original Image 1
-![Original Image 1](examples/image1.jpg)
-
-### Result 1
-![Result 1](examples/result1.jpg)
-
-### Original Image 2
-![Original Image 2](examples/image2.jpg)
-
-### Result 2
-![Result 2](examples/result2.jpg)
+### Outputs
+![Original Image 1](output.png)
 
 ## Overview
 
